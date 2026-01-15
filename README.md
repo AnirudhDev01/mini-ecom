@@ -40,7 +40,7 @@ This project helped me understand how a simple web application is structured fro
 ![Product Listing](screenshots/products.png)
 
 ### Product Details Page
-![Product Details](screenshots/product-details.png)
+![Product Details](screenshots/product-detail.png)
 
 ---
 
