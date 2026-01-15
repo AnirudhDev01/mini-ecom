@@ -44,20 +44,6 @@ This project helped me understand how a simple web application is structured fro
 
 ---
 
-## 📂 Project Structure
-mini-ecom/
-│
-├── css/ # Stylesheets
-├── js/ # JavaScript files
-├── images/ # Images and assets
-├── includes/ # PHP includes
-├── index.php # Main entry file
-├── db/ # Database-related files
-├── screenshots/ # Project screenshots
-└── README.md # Project documentation
-
----
-
 ## 🚀 How to Run the Project Locally
 
 1. Install a local server such as **XAMPP** or **WAMP**
